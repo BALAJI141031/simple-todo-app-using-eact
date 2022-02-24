@@ -1,2 +1,2 @@
-# simple-todo-app-using-eact
+# simple-todo-app-using-react
 Created with CodeSandbox
